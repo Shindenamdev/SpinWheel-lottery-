@@ -6,13 +6,13 @@
   }
   body {
     height: 100vh;
-    background: linear-gradient(135deg, #c3a3f1, #6414e9);
+    background: linear-gradient(135deg, #a87ae9, #6414e9);
   }
   .wrapper {
     width: 90%;
     max-width: 34.37em;
     max-height: 90vh;
-    background-color: #ffffff;
+    background-color: #4abea5;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -74,4 +74,10 @@
     img {
       right: -5%;
     }
+  }
+footer{
+text-align: center;
+background-color: #6414e9;
+color: #202020;
+padding: auto;
   }
